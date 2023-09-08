@@ -2,3 +2,4 @@
 ２　基本的なワークフローを学びます
 ３　git　rmを学習した ２回
 ４　git status学習
+５　git diff
